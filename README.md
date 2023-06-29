@@ -11,6 +11,8 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://gateway.pinata.cloud/ipfs/QmUfUH4bdRzPpa6fic2DMPgF2C7RobW9e6Lb12tcXBcwcx?_gl=1*1k6jlyk*rs_ga*MjA3NDMyNTU2LjE2ODc2NDIzMzM.*rs_ga_5RMPXG14TE*MTY4NzY0MjMzMy4xLjEuMTY4NzY0Mjc1NC42MC4wLjA.)
 
+CHC is a membership system and digital collectible composed of 5000 Crypto Humans NFTs. Members who hold the Crypto Humans tokens can enjoy exclusive benefits, regular rewards, and unlock access to unreleased areas and privileges.
+
 <!---
 CryptoHumansClub/CryptoHumansClub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
